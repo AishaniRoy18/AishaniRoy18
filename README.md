@@ -1,126 +1,18 @@
+# 💫 About Me:
+Here is your profile rewritten in the **same professional, industry-style format** as the sample you shared—tailored for *you* as an ECE fresher targeting Systems / Embedded / Integration roles:<br><br>---<br><br>## Aishani Roy<br><br>**ECE Undergraduate | Systems & Embedded Enthusiast | Problem Solver**<br>📧 [royaishani405@gmail.com](mailto:royaishani405@gmail.com) |<br><br>Highly motivated Electronics & Communication Engineering undergraduate seeking an entry-level role in **Systems Integration / Embedded Development**, where strong fundamentals in digital hardware, embedded systems, and modern programming (C/C++, Python) can be applied to build reliable end-to-end solutions—from device layer to application layer.<br><br>---<br><br>## EDUCATION<br><br>**B.Tech in Electronics & Communication Engineering**<br>*Techno International New Town*<br>2023 – Present<br>CGPA: 1st Year – 7.37 | 2nd Year – 7.20<br><br>---<br><br>## PERSONAL PROJECTS<br><br>### Project 1: Bus Tracking System (2024)<br><br>**Domain:** Smart Mobility | IoT | Embedded Systems<br>**Role:** Embedded & System Developer<br><br>**Key Contributions**<br><br>* Designed a GPS-enabled system to provide real-time location tracking of public transport buses.<br>* Implemented continuous data transmission from GPS modules to a central server.<br>* Enabled live bus location, ETA estimation, and route visibility via a web/mobile interface.<br>* Conceptualized admin features for fleet management, delay alerts, and route monitoring.<br>* Integrated hardware, data processing, and front-end visualization into a unified system.<br><br>**Tech Stack**<br><br>* Hardware: GPS Module, Microcontroller<br>* Backend: Cloud Database (Conceptual)<br>* Frontend: Web / Mobile Dashboard<br>* Concepts: IoT, Real-Time Data, Smart City Systems<br><br>**Impact**<br><br>* Reduced commuter waiting time through live tracking.<br>* Improved operational efficiency for transport administrators.<br>* Demonstrated practical application of embedded systems in smart infrastructure.<br><br>---<br><br>### Project 2: Drowsiness Detection Using BioAmp EXG Pill<br><br>**Domain:** Biomedical Signal Processing | Wearable Embedded Systems<br>**Role:** Embedded System Developer<br><br>**Key Contributions**<br><br>* Built a wearable fatigue-detection system using EOG signals from the BioAmp EXG Pill.<br>* Processed eye-movement signals via Arduino/Maker Uno to detect blink patterns and eye closure.<br>* Implemented real-time filtering, thresholding, and fatigue detection logic.<br>* Triggered alerts (LED) upon detection of drowsiness to improve user safety.<br>* Designed a low-power, non-invasive alternative to camera-based monitoring systems.<br><br>**Tech Stack**<br><br>* Hardware: BioAmp EXG Pill, Arduino / Maker Uno<br>* Programming: Embedded C<br>* Concepts: EOG, Signal Conditioning, Real-Time Monitoring<br><br>**Impact**<br><br>* Enhanced safety for drivers and machine operators.<br>* Showcased integration of biomedical sensing with embedded systems.<br>* Demonstrated innovation in wearable technology.<br><br>---<br><br>## WORK EXPERIENCE<br><br>### Research Intern<br><br>**Amity University Kolkata** | 2025<br><br>* Assisted in academic research activities and technical experimentation.<br>* Gained exposure to structured research methodology and documentation.<br>* Collaborated with faculty and peers on technical problem-solving tasks.<br><br>---<br><br>## SKILLS<br><br>* **Programming:** C, Java, Python<br>* **Tools:** MS Excel, PowerPoint<br>* **Core Areas:** Embedded Systems, Digital Electronics, IoT Fundamentals<br>* **Soft Skills:** Technical Communication, Teamwork, Leadership<br><br>---<br><br>## ACHIEVEMENTS<br><br>* Selected in **Intra-College SIH 2024**<br>* Secured **3rd Position** in Photography Competition (2025)<br><br>---<br><br>## CERTIFICATIONS<br><br>* C Programming (2023)<br>* Python Programming (2025)<br><br>---<br><br>## LANGUAGES<br><br>* English – Native/Bilingual<br>* Bengali – Native/Bilingual<br><br>---<br><br>This version mirrors the **professional tone, structure, and impact-driven style** of your sample while staying completely *authentic* to your background as an ECE student.<br><br>If you want, I can now convert this into a **one-page ATS-friendly resume layout (PDF-ready)** for placements.<br>
 
 
-# About Me:
-## Aishani Roy  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishani-roy-051953301/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:royaishani405@gmail.com)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aishani Roy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:royaishani405@gmail.com) 
 
-Highly motivated ECE student seeking a challenging entry-level role in **Systems Integration** where solid foundational knowledge in digital hardware design, embedded systems, and modern software development (C/C++, Python) and data analysis can be leveraged to create robust, end-to-end technological solutions—from device architecture to application layer.
-
----
-
-### Tech Stack:<br>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-%2300ADEF.svg?style=for-the-badge&logo=internetofthings&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AishaniRoy18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AishaniRoy18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AishaniRoy18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AishaniRoy18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Experience:
-
-## Project 1: Bus Tracking System (2024)  
-**Role:** Embedded & System Developer  
-**Domain:** Smart Mobility | IoT | Embedded Systems
-
-### Key Contributions
-- Designed a **GPS-enabled system** to provide real-time location updates of public transport buses.
-- Implemented continuous data transmission from GPS modules to a **central server**.
-- Enabled live bus tracking, **ETA estimation**, and route visualization through a web/mobile interface.
-- Conceptualized administrative features for **fleet management**, delay alerts, and performance monitoring.
-- Integrated hardware, data processing, and user interface into a **unified smart system**.
-
-### Tech Stack
-- **Hardware:** GPS Module, Microcontroller  
-- **Backend:** Cloud Database (Conceptual)  
-- **Frontend:** Web / Mobile Dashboard  
-- **Concepts:** IoT, Real-Time Systems, Smart City Solutions
-
-### Impact
-- Reduced commuter waiting time through live tracking.
-- Improved operational efficiency for transport administrators.
-- Demonstrated real-world application of embedded systems in smart infrastructure.
-
----
-
-## Project 2: Drowsiness Detection Using BioAmp EXG Pill  
-**Role:** Embedded System Developer  
-**Domain:** Biomedical Signal Processing | Wearable Systems
-
-### Key Contributions
-- Built a wearable fatigue-detection system using **EOG signals** from the BioAmp EXG Pill.
-- Processed eye-movement signals using **Arduino / Maker Uno** to monitor blink patterns and eye closure.
-- Implemented **real-time filtering, thresholding, and fatigue detection logic**.
-- Triggered alerts (LED) upon detecting drowsiness to enhance user safety.
-- Designed a **low-power, non-invasive** alternative to camera-based monitoring systems.
-
-### Tech Stack
-- **Hardware:** BioAmp EXG Pill, Arduino / Maker Uno  
-- **Programming:** Embedded C  
-- **Concepts:** EOG, Signal Conditioning, Real-Time Monitoring
-
-### Impact
-- Enhanced safety for drivers and machine operators.
-- Showcased integration of biomedical sensing with embedded systems.
-- Demonstrated innovation in wearable technology.
-
----
-
-## Work Experience
-
-### Research Intern  
-**Amity University Kolkata** | 2025  
-
-- Assisted in academic research activities and technical experimentation.
-- Gained exposure to structured research methodology and documentation.
-- Collaborated with faculty and peers on technical problem-solving tasks.
-
----
-
-## Education
-
-**Techno International New Town**  
-**B.Tech in Electronics & Communication Engineering**  
-*2023 – Present*  
-CGPA: 1st Year – 7.37 | 2nd Year – 7.20  
-
----
-
-## Skills
-
-- **Programming:** C, Java, Python  
-- **Core Areas:** Embedded Systems, Digital Electronics, IoT Fundamentals  
-- **Tools:** Microsoft Excel, PowerPoint  
-- **Soft Skills:** Technical Communication, Teamwork, Leadership  
-
----
-
-## Achievements
-
-- Selected in **Intra-College SIH 2024**  
-- Secured **3rd Position** in Photography Competition (2025)
-
----
-
-## Certifications
-
-- C Programming (2023)  
-- Python Programming (2025)
-
----
-
-## Languages
-
-- English – Native/Bilingual  
-- Bengali – Native/Bilingual  
-
----
-
-## Interests
-
-- Photography
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
