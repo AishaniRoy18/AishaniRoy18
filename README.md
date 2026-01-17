@@ -3,16 +3,28 @@
 
 **ECE Undergraduate | Systems & Embedded Enthusiast | Problem Solver**
 
-Highly motivated Electronics & Communication Engineering undergraduate seeking an entry-level role in **Systems Integration / Embedded Development**, where strong fundamentals in digital hardware, embedded systems, and modern programming (C/C++, Python) and data analysis can be applied to build reliable end-to-end solutions—from device layer to application layer.
+Highly motivated Electronics & Communication Engineering undergraduate seeking an entry-level role in **Systems Integration / Embedded Development**, where strong fundamentals in digital hardware design, embedded systems, and modern programming (C/C++, Python) and data analysis can be applied to build reliable end-to-end solutions—from device layer to application layer.
 
 ---
 
 ## 🎓 Education
 
-**B.Tech in Electronics & Communication Engineering**  
+**B.Tech – Electronics & Communication Engineering**  
 *Techno International New Town*  
-2023 – Present  
+**Year of Passing:** 2027  
 CGPA: 1st Year – 7.37 | 2nd Year – 7.20  
+
+---
+
+**12th – Science (ISC)**  
+*St. Claret School*  
+2023 | 66%  
+
+---
+
+**10th – General (ICSE)**  
+*St. Claret School*  
+2021 | 90%  
 
 ---
 
