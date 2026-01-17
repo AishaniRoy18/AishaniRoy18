@@ -7,24 +7,23 @@ Highly motivated Electronics & Communication Engineering undergraduate seeking a
 
 ---
 
-## 🎓 Education
+## 🛠️ Skills
 
-**B.Tech – Electronics & Communication Engineering**  
-*Techno International New Town*  
-**Year of Passing:** 2027  
-CGPA: 1st Year – 7.37 | 2nd Year – 7.20  
-
----
-
-**12th – Science (ISC)**  
-*St. Claret School*  
-2023 | 66%  
+- **Programming:** C, Java, Python  
+- **Tools:** MS Excel, PowerPoint  
+- **Core Areas:** Embedded Systems, Digital Electronics, IoT Fundamentals  
+- **Soft Skills:** Technical Communication, Teamwork, Leadership  
 
 ---
 
-**10th – General (ICSE)**  
-*St. Claret School*  
-2021 | 90%  
+## 💼 Work Experience
+
+### Research Intern  
+**Amity University Kolkata** | 2025  
+
+- Assisted in academic research activities and technical experimentation.
+- Gained exposure to structured research methodology and documentation.
+- Collaborated with faculty and peers on technical problem-solving tasks.
 
 ---
 
@@ -77,30 +76,24 @@ CGPA: 1st Year – 7.37 | 2nd Year – 7.20
 
 ---
 
-## 💼 Work Experience
+## 🎓 Education
 
-### Research Intern  
-**Amity University Kolkata** | 2025  
-
-- Assisted in academic research activities and technical experimentation.
-- Gained exposure to structured research methodology and documentation.
-- Collaborated with faculty and peers on technical problem-solving tasks.
+**B.Tech – Electronics & Communication Engineering**  
+*Techno International New Town*  
+**Year of Passing:** 2027  
+CGPA: 1st Year – 7.37 | 2nd Year – 7.20  
 
 ---
 
-## 🛠️ Skills
-
-- **Programming:** C, Java, Python  
-- **Tools:** MS Excel, PowerPoint  
-- **Core Areas:** Embedded Systems, Digital Electronics, IoT Fundamentals  
-- **Soft Skills:** Technical Communication, Teamwork, Leadership  
+**12th – Science (ISC)**  
+*St. Claret School*  
+2023 | 66%  
 
 ---
 
-## 🏆 Achievements
-
-- Selected in **Intra-College SIH 2024**  
-- Secured **3rd Position** in Photography Competition (2025)
+**10th – General (ICSE)**  
+*St. Claret School*  
+2021 | 90%  
 
 ---
 
@@ -108,13 +101,6 @@ CGPA: 1st Year – 7.37 | 2nd Year – 7.20
 
 - C Programming (2023)  
 - Python Programming (2025)
-
----
-
-## 🌐 Languages
-
-- English – Native/Bilingual  
-- Bengali – Native/Bilingual  
 
 ---
 
