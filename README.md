@@ -1,6 +1,7 @@
+
+
 # About Me:
-## Aishani Roy  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-%230077B5.svg?logo=linkedin&logoColor=white)](#) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:royaishani405@gmail.com)
+## Aishani Roy  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishani-roy-051953301/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:royaishani405@gmail.com)
 
 Highly motivated ECE student seeking a challenging entry-level role in **Systems Integration** where solid foundational knowledge in digital hardware design, embedded systems, and modern software development (C/C++, Python) and data analysis can be leveraged to create robust, end-to-end technological solutions—from device architecture to application layer.
 
@@ -117,5 +118,9 @@ CGPA: 1st Year – 7.37 | 2nd Year – 7.20
 - Bengali – Native/Bilingual  
 
 ---
+
+## Interests
+
+- Photography
 
 
